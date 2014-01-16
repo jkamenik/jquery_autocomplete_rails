@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = JqueryAutocompleteRails::VERSION
   s.authors     = ["John Kamenik"]
   s.email       = ["jkamenik@gmail.com"]
-  s.homepage    = "http://google.com"
+  s.homepage    = "https://github.com/jkamenik/jquery_autocomplete_rails"
   s.summary     = "Provides jQuery Autocomplete assets."
   s.description = "Wraps jQuery-Autocomplete in rails asset wrappers."
 
